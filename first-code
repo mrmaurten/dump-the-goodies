@@ -1,2 +1,4 @@
-asdf
-string [value] = 
+public class Main{
+public static void main(string str[]){
+System.out.print("Hello world");}
+}
